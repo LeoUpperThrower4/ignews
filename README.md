@@ -1,4 +1,4 @@
-# Ignews
+# ig.news
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/LeoUpperThrower4/ignews?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/LeoUpperThrower4/ignews?style=for-the-badge)
@@ -12,7 +12,7 @@
 
 > Esse projeto foi desenvolvido durante o curso Ignite da Rocketseat na trilha de React.js
 
-Ig.news é uma plataforma de leitura de notícias para pessoas que se interessam pelo mundo React. Através do pagamento de uma assinatura mensal é possível acessar todos posts já publicados, caso não haja pagamento, apenas uma introdução será mostrada
+ig.news é uma plataforma de leitura de notícias para pessoas que se interessam pelo mundo React. Através do pagamento de uma assinatura mensal é possível acessar todos posts já publicados, caso não haja pagamento, apenas uma introdução será mostrada
 
 ## Tecnologias
 
