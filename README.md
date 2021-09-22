@@ -1,4 +1,3 @@
-Projeto desenvolvido durante o capítulo 2 do curso Ignite, ministrado pela Rocketseat, na trilha de ReactJS
 # Ignews
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/LeoUpperThrower4/ignews?style=for-the-badge)
@@ -7,9 +6,16 @@ Projeto desenvolvido durante o capítulo 2 do curso Ignite, ministrado pela Rock
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeoUpperThrower4/ignews?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeoUpperThrower4/ignews?style=for-the-badge)
 
-<img src="final.jpeg" alt="site final">
+<img src="imgs/cover.jpg" alt="Cover photo">
+
+## Introdução
+
+> Esse projeto foi desenvolvido durante o curso Ignite da Rocketseat na trilha de React.js
+
+Ig.news é uma plataforma de leitura de notícias para pessoas que se interessam pelo mundo React. Através do pagamento de uma assinatura mensal é possível acessar todos posts já publicados, caso não haja pagamento, apenas uma introdução será mostrada
 
 ## Tecnologias
+
 - [Next.js](https://nextjs.org/) (SSG, SSR, React, ...)
 - [Prismic](https://prismic.io/) (CMS para o blog)
 - [Stripe](https://stripe.com/br) (para pagamentos)
@@ -20,12 +26,11 @@ Projeto desenvolvido durante o capítulo 2 do curso Ignite, ministrado pela Rock
 Para instalar o projeto, siga estas etapas:
 
 ```bash
-# Clone o projeto:
+# Clone o projeto
+$ git clone https://github.com/LeoUpperThrower4/ignews.git
 
-$ git clone https://github.com/LeoUpperThrower4/Projeto-TCC.git
-
-# e entre nele
-$ cd Projeto-TCC
+# Acesse-o
+$ cd ignews
 
 # Instale suas dependências
 $ yarn
