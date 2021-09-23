@@ -10,7 +10,7 @@
 
 ## Introdução
 
-> Esse projeto foi desenvolvido durante o curso Ignite da Rocketseat na trilha de React.js
+> Esse projeto foi desenvolvido durante o capítulo 2 do curso Ignite, da Rocketseat, na trilha de React.js
 
 ig.news é uma plataforma de leitura de notícias para pessoas que se interessam pelo mundo React. Através do pagamento de uma assinatura mensal é possível acessar todos posts já publicados, caso não haja pagamento, apenas uma introdução será mostrada
 
